@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-This project was done for NTU's SC1015 course (Introduction to Data Science & Artificial Intelligence) in AY21/22 S2. This repository consists of one Jupyter Notebook, one set of presentation slides and two datasets. We used the Airbnb Amsterdam dataset from kaggle (linked in our notebook) and investigated how an Airbnb host could make the most of their property. 
+This project was done for NTU's SC1015 course (Introduction to Data Science & Artificial Intelligence) in AY21/22 S2. We used the Airbnb Amsterdam dataset from kaggle (linked in our notebook) and investigated how an Airbnb host could make the most of their property. 
 
 ## Contributors
 - Lee Haoguang
 - Lee Rou Yin
 - Li Lin
 
-## Problem definition
+## Problem Definition
 **Main Problem**
 - How does an airbnb host maximise their property?
 
